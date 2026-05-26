@@ -1,6 +1,6 @@
 **Стек:** Java 21, Gradle, JUnit 5, Playwright, Google Chrome
 
-## Шаг 1 — Установить Java 21
+### Шаг 1 — Установить Java 21
 
 ### Windows
 
@@ -46,7 +46,7 @@ java -version
 openjdk version "21.x.x"
 ```
 
-## Шаг 2 — Установить Git
+### Шаг 2 — Установить Git
 
 ### Windows
 
@@ -74,7 +74,7 @@ git --version
 brew install git
 ```
 
-## Шаг 3 — Установить Google Chrome
+### Шаг 3 — Установить Google Chrome
 
 ### Windows
 
@@ -126,7 +126,7 @@ brew install gradle
 gradle -v
 ```
 
-## Шаг 4 — Установить Google Chrome
+### Шаг 4 — Установить Google Chrome
 
 ### Windows
 
@@ -143,7 +143,7 @@ gradle -v
 https://google.com/chrome
 
 
-## Шаг 5 — Скачать проект
+### Шаг 5 — Скачать проект
 
 ### Windows
 
@@ -172,7 +172,7 @@ git clone https://github.com/VinClose/AuthorizationTest
 cd AuthorizationTest
 ```
 
-## Шаг 6 — Запустить тесты
+### Шаг 6 — Запустить тесты
 
 Ввести команду и нажать Enter:
 
