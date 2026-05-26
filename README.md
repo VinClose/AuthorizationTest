@@ -1,7 +1,5 @@
 **Стек:** Java 21, Gradle, JUnit 5, Playwright, Google Chrome
 
----
-
 ## Шаг 1 — Установить Java 21
 
 ### Windows
@@ -22,7 +20,6 @@ openjdk version "21.x.x"
 ```
 Если появилось — Java установлена, продолжаем.
 
----
 
 ### Mac
 
@@ -63,7 +60,6 @@ git --version
 ```
 Должно появиться: `git version 2.x.x`
 
----
 
 ### Mac
 
@@ -93,7 +89,6 @@ C:\Gradle
 ```
 C:\Gradle\gradle-8.7
 ```
----
 
 Добавить Gradle в PATH
 1. Нажать Win
@@ -140,7 +135,6 @@ gradle -v
 1. Открыть https://google.com/chrome
 2. Нажать **Скачать Chrome**, запустить установщик
 
----
 
 ### Mac
 
@@ -166,7 +160,6 @@ cd AuthorizationTest
 
 > **Важно:** все следующие команды вводить в этой же командной строке. Не закрывайте окно.
 
----
 
 ### Mac
 
