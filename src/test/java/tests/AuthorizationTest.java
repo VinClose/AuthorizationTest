@@ -25,8 +25,6 @@ public class AuthorizationTest {
         page.locator("#submit").click();
 
         page.waitForURL("https://practicetestautomation.com/logged-in-successfully/");
-        assertTrue(page.url().contains("logged-in-successfully"), 
-                "URL не содержит logged-in-successfully");
 
         assertTrue(page.url().contains("logged-in-successfully"), "Неверный URL");
         assertTrue(page.locator("a.wp-block-button__link").isVisible(), "Кнопка Log out не видна");
